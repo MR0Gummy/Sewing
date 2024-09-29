@@ -1,0 +1,43 @@
+{
+  "item.sewing.sewing_needle": "Sewing Needle",
+  "container.sewing.sewing_needle": "Sewing Needle",
+
+  "itemGroup.sewing.sewing": "Sewing",
+
+  "item.sewing.black_fabric": "Black Fabric",
+  "item.sewing.blue_fabric": "Blue Fabric",
+  "item.sewing.brown_fabric": "Brown Fabric",
+  "item.sewing.cyan_fabric": "Cyan Fabric",
+  "item.sewing.gray_fabric": "Gray Fabric",
+  "item.sewing.green_fabric": "Green Fabric",
+  "item.sewing.light_blue_fabric": "Light Blue Fabric",
+  "item.sewing.light_gray_fabric": "Light Gray Fabric",
+  "item.sewing.lime_fabric": "Lime Fabric",
+  "item.sewing.magenta_fabric": "Magenta Fabric",
+  "item.sewing.orange_fabric": "Orange Fabric",
+  "item.sewing.pink_fabric": "Pink Fabric",
+  "item.sewing.purple_fabric": "Purple Fabric",
+  "item.sewing.red_fabric": "Red Fabric",
+  "item.sewing.white_fabric": "White Fabric",
+  "item.sewing.yellow_fabric": "Yellow Fabric",
+
+  "item.sewing.mitten": "Mitten",
+  "item.sewing.opposite_mitten": "Mitten",
+  "item.sewing.diamond_sword_plushie": "Diamond Sword Plushie",
+  "item.sewing.towel": "Towel",
+  "item.sewing.embroidery": "Embroidery",
+  "block.sewing.panda_plushie": "Panda Plushie",
+  "block.sewing.creeper_plushie": "Creeper Plushie",
+  "block.sewing.cow_plushie": "Cow Plushie",
+  "block.sewing.bee_plushie": "Bee Plushie",
+  "block.sewing.pillow": "Pillow",
+  "block.sewing.tomato_plushie": "Tomato Plushie",
+  "block.sewing.cat_plushie": "Cat Plushie",
+  "block.sewing.orange_plushie": "Orange Plushie",
+  "block.sewing.shark_plushie": "Shark Plushie",
+  "block.sewing.plushie_plushie": "Plushie Plushie",
+  "block.sewing.pincushion": "Pincushion",
+
+  "item.sewing.hat": "§7Can be Worn"
+
+}

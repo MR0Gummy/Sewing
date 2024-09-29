@@ -1,0 +1,6 @@
+{
+  "parent": "sewing:item/hat_base",
+  "textures": {
+    "hat": "sewing:item/beanie_worn"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "sewing_needles=0": {
+      "model": "sewing:block/pincushion_empty"
+    },
+    "sewing_needles=1": {
+      "model": "sewing:block/pincushion_half"
+    },
+    "sewing_needles=2": {
+      "model": "sewing:block/pincushion_full"
+    }
+  }
+}

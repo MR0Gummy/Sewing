@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "sewing:block/cat_plushie",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "sewing:block/cat_plushie",
+      "y": 270
+    },
+    "facing=east": {
+      "model": "sewing:block/cat_plushie",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "sewing:block/cat_plushie"
+    }
+  }
+}
